@@ -19,4 +19,8 @@ public class Main {
     }
 }
 
+ HEAD
 //Änderung im Main
+
+// Änderung in merge-conflict
+ merge-conflict
